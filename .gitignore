@@ -1,0 +1,8 @@
+# Flutter
+/build/
+/.idea/
+/.packages
+.pub-cache/
+/.pub/
+/flutter/bin/
+/android/app/debug.apk
